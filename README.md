@@ -6,7 +6,12 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-uby 2.6.2p47 (2019-03-13 revision 67232)
+ 2.6.2p47 (2019-03-13 revision 67232)
+
+
+
+
+
 
 * System dependencies
 
